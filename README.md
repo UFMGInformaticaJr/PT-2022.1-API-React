@@ -3,7 +3,7 @@ Se você está na trilha de front-end, você provavelmente vai precisar saber co
 
 ## Como rodar o sistema
 Primeiramente, é preciso clonar essa API para o seu ambiente de desenvolvimento. Para isso, abra com o terminal a pasta em que você deseja ter 
-o seu projeto, inicialize um repositório git e clone o repositório para seu ambiente.
+o seu projeto, inicialize um repositório git e clone o repositório para seu ambiente. Se você quiser, pode renomear a pasta para algo mais simples.
     
     > git init
     > git clone https://github.com/UFMGInformaticaJr/PT-2022.1-API-React.git. 
