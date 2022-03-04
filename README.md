@@ -6,7 +6,7 @@ Primeiramente, é preciso clonar essa API para o seu ambiente de desenvolvimento
 o seu projeto, inicialize um repositório git e clone o repositório para seu ambiente. Se você quiser, pode renomear a pasta para algo mais simples.
     
     > git init
-    > git clone https://github.com/UFMGInformaticaJr/PT-2022.1-API-React.git. 
+    > git clone https://github.com/UFMGInformaticaJr/PT-2022.1-API-React.git
 
 A sua estrutura do projeto deve ser: 
 
